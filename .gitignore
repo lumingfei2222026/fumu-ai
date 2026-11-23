@@ -8,9 +8,7 @@
 /coverage
 
 # next.js
-/# next.js
 /.next/
-/out/
 /build/
 
 # misc
@@ -27,8 +25,6 @@ yarn-error.log*
 
 # vercel
 .vercel
-!out/
-.git/
 
 # typescript
 *.tsbuildinfo
